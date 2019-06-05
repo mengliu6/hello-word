@@ -1,2 +1,3 @@
 # hello-word
-test
+readme file of edition 1.
+Hi, summer.
